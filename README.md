@@ -1,4 +1,4 @@
-I’m @MurPenguinZhao, an undergraduate student at Zhejiang Unversity, majoring in Information Security, and a rookie in Computer Vision.
+I’m @MurPenguinZhao, an undergraduate student at Zhejiang Unversity, majoring in Information Security.
 
 <!---
 MurPenguinZhao/MurPenguinZhao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
